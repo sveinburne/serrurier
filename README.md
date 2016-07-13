@@ -3,6 +3,8 @@
 
 # *Serrurier*, a declarative extension for methods access control in [jagi:astronomy](http://jagi.github.io/meteor-astronomy/)(v2) using decorators
 
+[![Join the chat at https://gitter.im/sveinburne/serrurier](https://badges.gitter.im/sveinburne/serrurier.svg)](https://gitter.im/sveinburne/serrurier?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > [![](https://rawgit.com/sveinburne/serrurier/master/img/decorator-raw.svg)](#cadenas)
 >  
 >
